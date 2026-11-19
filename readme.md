@@ -165,6 +165,7 @@ I won't write about benchmark numbers as you can get those from many LLM benchma
 Pros
 
 - Taking into account all the trade-offs, Qwen 3.8 27B behaves as predicted: strong on logical reasoning, good on popular programming languages, and usable on agentic coding. But make sure to break down an scope the big tasks properly.
+- Especially on long agentic coding session, please tighten your unit tests and harden the security-related parts.
 
 Cons
 
