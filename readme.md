@@ -2,7 +2,7 @@
 
 I run **Qwen3.8-27B-UD-IQ3\_S** (Unsloth's 3-bit build) as my local coding model on a single 16 GB Radeon RX 6800. It's one of the better coding models that fits, and its hybrid attention design leaves more room for context than any other 27B-class model. As of late 2026, is it the perfect model for this GPU? Read more to find out.
 
-_Note: this is a practical, beginner-friendly article. Not a deep dive for AI or ML engineers._
+_Note: this is a practical, beginner-friendly article. Not a deep dive for AI or ML engineers. Some LLM tokens were used in the creation of this article._
 
 ## The goal
 
