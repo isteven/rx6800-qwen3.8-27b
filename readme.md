@@ -178,6 +178,8 @@ I may try to tinker with **Multi-token prediction (MTP).**  Some reported speed-
 
 **A 24 GB card.** A used RTX 3090 or an RX 7900 XTX (\~940–960 GB/s, with matrix cores) would give about 1.8× the output speed. Unfortunately I have no 💸💸💸
 
+Considering Qwen 3.8 27B's hallucination tendency, I might use another model for real-world Q&A purposes and keep the Qwen for coding (or other technical tasks).
+
 ## Sources
 
 - [Qwen3.8-27B model card – Hugging Face](https://huggingface.co/Qwen/Qwen3.8-27B)
