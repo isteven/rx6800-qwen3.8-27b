@@ -6,10 +6,10 @@ _Note: this is a practical, beginner-friendly article. Not a deep dive for AI or
 
 ## The goal
 
-I want locally hosted model for mainly two reasons:
+I want locally hosted model for several reasons:
 1. **Agentic coding.** An assistant in VS Code (ideally) or any other editor that reads several files, plans a change, edits them, run tests, and fixes errors.
 2. Nice to have: **General-purpose Q&A.** Quick questions like "Explain about the offside rule in football", or "Who are the stakeholders of company X?".&#32;
-3. Privacy FTW.
+3. Privacy.
    
 ## The constraints
 
